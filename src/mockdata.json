@@ -1,0 +1,40 @@
+[
+  {
+    "level": "0",
+    "folderName": "Europe",
+    "children": [
+      {
+        "level": "0-0",
+        "folderName": "Europe-Childern-0",
+        "children": [
+          {
+            "level": "0-0-0",
+            "folderName": "Europe-Childern-0-0",
+            "children": [],
+            "items": [],
+            "isExpand": false
+          }
+        ],
+        "items": ["euro-1", "euro-2"],
+        "isExpand": false
+      }
+    ],
+    "items": ["euro-0"],
+    "isExpand": false
+  },
+  {
+    "level": "1",
+    "folderName": "Usa",
+    "children": [
+      {
+        "level": "1-0",
+        "folderName": "Usa-Childern",
+        "children": [],
+        "items": [],
+        "isExpand": false
+      }
+    ],
+    "items": [],
+    "isExpand": false
+  }
+]
